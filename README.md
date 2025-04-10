@@ -5,7 +5,7 @@ This repository contains the privacy policy for DiceScript, a dice roller app. T
 ## Viewing the Privacy Policy
 
 The policy is published via GitHub Pages and is available at:
-[https://mihai-t-moldovan.github.io/privacy-policy/](https://mihai-t-moldovan.github.io/privacy-policy/)
+[https://mihai-t-moldovan.github.io/Privacy-Policy/](https://mihai-t-moldovan.github.io/Privacy-Policy/)
 
 ## Updating the Policy
 
