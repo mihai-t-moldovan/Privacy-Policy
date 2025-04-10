@@ -1,9 +1,6 @@
-# Privacy-Policy
-Privacy Policy for DiceScript, a dice roller app.
+# Privacy Policy for DiceScript
 
-# Privacy Policy for [DiceScript]
-
-This repository contains the privacy policy for [DiceScript], a dice roller app. The privacy policy outlines that our app operates fully offline and does not collect, store, or transmit any personal or device data. We do not use any third-party data collection services.
+This repository contains the privacy policy for DiceScript, a dice roller app. The privacy policy outlines that our app operates fully offline and does not collect, store, or transmit any personal or device data. We do not use any third-party data collection services.
 
 ## Viewing the Privacy Policy
 
